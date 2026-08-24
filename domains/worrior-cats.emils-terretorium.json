@@ -4,7 +4,7 @@
     "email": "juniortank@example.com"
   },
   "records": {
-    "A": ["192.0.2.1"]
+    "A": ["1.1.1.1"]
   },
   "proxied": true
 }
